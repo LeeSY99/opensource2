@@ -29,3 +29,6 @@ midgys2=c2
 gbs=mul2/midgys2
 
 print("%d %d" %(gys,gbs)) 
+
+plus = gys + gbs
+print("최대공배수와 최대공약수의 합은", plus)
