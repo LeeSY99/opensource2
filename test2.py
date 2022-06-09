@@ -7,4 +7,4 @@ for i in range(65, 72):
 
 num = int(input())
 print(num)
-test1234
+test12345
